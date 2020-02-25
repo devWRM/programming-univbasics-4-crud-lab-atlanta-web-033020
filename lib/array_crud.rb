@@ -5,7 +5,7 @@ end
 
 
 def create_an_array
-
+  my_array = ["first", "second", "third", "fourth"]
 end
 
 
